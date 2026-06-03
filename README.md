@@ -24,6 +24,8 @@
 
 <p align="left">Hey, I’m Albet (burneybuilds), a 19-year-old developer with a passion for coding, gaming, and creating innovative projects. I'm currently learning Node.js and diving into front-end development, while also exploring the world of Discord bots and game development. As someone who's new to coding, I’m always eager to improve and expand my skill set, and I love collaborating on open-source projects. When I’m not coding, you’ll probably find me gaming or hanging out with friends. If you’re into development, gaming, or just want to chat about cool tech, feel free to connect with me. Let’s build something awesome together!<br><br>Be sure to check my Portfolio: https://burneybuilds.github.io/portfolio/</p>
 
+<p>“A COMPUTER CAN NEVER BE HELD ACCOUNTABLE
+THEREFORE A COMPUTER MUST NEVER MAKE A MANAGEMENT DECISION.”</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
