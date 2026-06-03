@@ -24,8 +24,6 @@
 
 <p align="left">Hey, I’m Albet (burneybuilds), a 19-year-old developer with a passion for coding, gaming, and creating innovative projects. I'm currently learning Node.js and diving into front-end development, while also exploring the world of Discord bots and game development. As someone who's new to coding, I’m always eager to improve and expand my skill set, and I love collaborating on open-source projects. When I’m not coding, you’ll probably find me gaming or hanging out with friends. If you’re into development, gaming, or just want to chat about cool tech, feel free to connect with me. Let’s build something awesome together!<br><br>Be sure to check my Portfolio: https://burneybuilds.github.io/portfolio/</p>
 
-<p>“A COMPUTER CAN NEVER BE HELD ACCOUNTABLE
-THEREFORE A COMPUTER MUST NEVER MAKE A MANAGEMENT DECISION.”</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -48,13 +46,6 @@ THEREFORE A COMPUTER MUST NEVER MAKE A MANAGEMENT DECISION.”</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burneybuilds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Burneybuilds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Contact Me</h3>
 
 ###
@@ -68,6 +59,7 @@ THEREFORE A COMPUTER MUST NEVER MAKE A MANAGEMENT DECISION.”</p>
 
 ###
 
-<h5 align="center">Big dreams start with small commits.</h5>
+<h5 align="center">“A COMPUTER CAN NEVER BE HELD ACCOUNTABLE
+THEREFORE A COMPUTER MUST NEVER MAKE A MANAGEMENT DECISION.”</h5>
 
 ###
