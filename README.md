@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlsMW15bTAxa3h3eWtsM3ExNnBmMHlzOG9rYWhqaDVjNncwNjdrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
 ###
@@ -10,56 +11,19 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Burneybuilds.Burneybuilds&"  />
-</div>
-
-###
 
 <h1 align="left">Greetings!</h1>
 
-###
+<p align="left">
+Hey, I'm Tushar, a Python developer who enjoys building projects, learning new technologies, and asking APIs politely for data.
 
-<p align="left">Hey, I’m Albet (burneybuilds), a 19-year-old developer with a passion for coding, gaming, and creating innovative projects. I'm currently learning Node.js and diving into front-end development, while also exploring the world of Discord bots and game development. As someone who's new to coding, I’m always eager to improve and expand my skill set, and I love collaborating on open-source projects. When I’m not coding, you’ll probably find me gaming or hanging out with friends. If you’re into development, gaming, or just want to chat about cool tech, feel free to connect with me. Let’s build something awesome together!<br><br>Be sure to check my Portfolio: https://burneybuilds.github.io/portfolio/</p>
+Currently exploring Python, APIs, automation, and problem solving while building projects like PocketDex. 
+<br>I believe the best way to learn is to build things, break them, and then spend three hours figuring out why they broke.
 
-###
+Most of my commits are either new features or me fixing bugs created by previous me.
 
-<h3 align="left">🛠 Language and tools</h3>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">Contact Me</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<h5 align="center">“A COMPUTER CAN NEVER BE HELD ACCOUNTABLE
-THEREFORE A COMPUTER MUST NEVER MAKE A MANAGEMENT DECISION.”</h5>
-
-###
+<h5 align="center">
+"There are two kinds of code: code that has bugs, and code that hasn't been used yet."
+</h5>
