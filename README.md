@@ -7,7 +7,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
@@ -25,5 +24,5 @@ Most of my commits are either new features or me fixing bugs created by previous
 </p>
 
 <h5 align="center">
-"There are two kinds of code: code that has bugs, and code that hasn't been used yet."
+""Programs are meant to be read by humans and only incidentally for computers to execute.""
 </h5>
