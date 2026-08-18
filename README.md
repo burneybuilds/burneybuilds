@@ -20,7 +20,6 @@ Currently exploring Python, APIs, automation, and problem solving while building
 <br>I believe the best way to learn is to build things, break them, and then spend three hours figuring out why they broke.
 
 Most of my commits are either new features or me fixing bugs created by previous me.
-
 </p>
 
 <h5 align="center">
