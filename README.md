@@ -22,6 +22,8 @@ Currently exploring Python, APIs, automation, and problem solving while building
 Most of my commits are either new features or me fixing bugs created by previous me.
 </p>
 
+
+
 <h5 align="center">
 ""Programs are meant to be read by humans and only incidentally for computers to execute.""
 </h5>
